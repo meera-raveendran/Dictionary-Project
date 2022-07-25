@@ -18,10 +18,13 @@ export default function Dictionary(){
         setKeyword(event.target.value);
 
     }
-    return (<div className="Dictionary">
+    return (
+    <div className="Dictionary">
+        <section>
         <form onSubmit={Search}>
             <input type="search" onChange={handleKeywordChange}/>
         </form>
+        </section>
         <Results results={results}/>
     </div>
     
