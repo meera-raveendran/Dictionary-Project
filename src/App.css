@@ -1,10 +1,18 @@
-.App-logo{
-    display: block;
-    margin: 0 auto;
-    max-width: 200px;
-
+.App-header{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #524450;
 
 }
 body{
-    background-color: #f0eff7;
+    background-color: #f0c8ea;
+}
+.App-main{
+    margin: 0 300px;
+}
+.App-footer{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
 }
