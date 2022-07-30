@@ -3,7 +3,7 @@ import Phonetic from "./Phonetic"
 import Meaning from "./Meaning";
 import "./Results.css";
 export default function Results(props){
-        console.log(props.results)
+        
         if (props.results){
         return(
             
@@ -27,7 +27,8 @@ export default function Results(props){
                     </section>
                     )
                     
-                })}   
+                })} 
+                
                 </div>                    
                      
     )

@@ -2,8 +2,8 @@
     border: 1px solid rgb(142, 115, 115);
     border-radius: 14px;
     text-decoration: none;
-    padding: 5px ;
-    margin-right: 5px;
+    padding: 7px ;
+    margin-right: 5px;    
     transition: all 150ms ease-in-out;
     font-size: 15px;
     font-weight: bold;
@@ -16,6 +16,7 @@
 }
 .Phonetic{
     line-height: 40px;
+    margin-bottom: 8px;
 }
 .Phonetic .text{
     opacity: 0.5;
