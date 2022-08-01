@@ -12,7 +12,7 @@ export default function App() {
         <Dictionary defaultKeyword="yoga"/>
       </main>
       <footer className="App-footer">
-        <small> coded by Meera Raveendran</small>       
+        <small> Coded by Meera Raveendran</small> and Open source code on<a href="" target="_blank">Github</a>     
       </footer>
       </div>
     </div>
