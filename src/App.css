@@ -6,7 +6,7 @@
 
 }
 body{
-    background-color: #f2f7e2;
+    background-color: #e9f1b5;
 }
 .App-main{
     margin: 0 300px;
@@ -15,4 +15,7 @@ body{
     font-size: 18px;
     text-align: center;
     margin-bottom: 20px;
+}
+.App-footer a{
+    text-decoration: none;
 }
